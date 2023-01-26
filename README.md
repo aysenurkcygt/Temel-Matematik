@@ -1,1 +1,2 @@
-# Temel-Matematik
+# Temel Matematik
+Programlamada matematik becerileri algoritma üretmek, veri yapılarını uygulamak ve problemleri çözmek gibi birçok amaçla kullanılmaktadır. Matematikteki cebir, analiz, olasılık ve istatistik, sayısal ve ayrık matematik ve optimizasyon konuları programlamada fazlasıyla kullanılmaktadır. Programlama ve matematik soyut düşünmeyi gerektirmeleri ve mantıksal yapı kullanmaları gibi birçok ortak özelliğe sahiptir. Özetle, programlama ve matematik makine öğrenmesi ve veri analitiği gibi birçok alanda da birlikte kullanılmaktadır ve programlama matematik bilgisi gerektirmektedir. 
